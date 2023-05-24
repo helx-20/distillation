@@ -1,5 +1,5 @@
-# dynamic
-codebase of the article **Neural Dynamics Pruning for Energy-Efficient Spiking Neural Networks**
+# Neural Dynamics Pruning for Energy-Efficient Spiking Neural Networks
+Codebase of the article **Neural Dynamics Pruning for Energy-Efficient Spiking Neural Networks**.
 
 ## Requirements
 ````
