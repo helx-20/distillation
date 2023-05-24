@@ -1,5 +1,5 @@
 # dynamic
-codebase of the article \bf{Neural Dynamics Pruning for Energy-Efficient Spiking Neural Networks}
+codebase of the article **Neural Dynamics Pruning for Energy-Efficient Spiking Neural Networks**
 
 ## Requirements
 ````
